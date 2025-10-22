@@ -1,0 +1,11 @@
+[package]
+name = "hello_world"
+version = "0.1.0"
+edition = "2021"
+
+authors = ["Cursor AI"]
+
+description = "Minimal Rust hello world"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
